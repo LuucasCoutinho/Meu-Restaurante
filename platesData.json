@@ -1,0 +1,69 @@
+[
+    {
+    "name": "Pão com ovo",
+    "price": "5.00",
+    "available": true,
+    "description": "Pão francês com ovo frito, uma opção simples e deliciosa para o café da manhã ou lanche.",
+    "ingredients": [
+        "Pão francês",
+        "Ovo",
+        "Sal",
+        "Pimenta"
+    ],
+    "category": "First"
+},
+{
+    "name": "Hambúrguer",
+    "price": "15.00",
+    "available": true,
+    "description": "Hambúrguer suculento com queijo, alface, tomate e molho especial, servido no pão de hambúrguer.",
+    "ingredients": [
+        "Pão de hambúrguer",
+        "Carne bovina",
+        "Queijo",
+        "Alface",
+        "Tomate",
+        "Molho especial"
+    ],
+    "category": "First"
+},
+{
+    "name": "Pizza Margherita",
+    "price": "25.00",
+    "available": true,
+    "description": "Pizza clássica italiana com molho de tomate, queijo mozzarella e manjericão fresco.",
+    "ingredients": [
+        "Massa de pizza",
+        "Molho de tomate",
+        "Queijo mozzarella",
+        "Manjericão"
+    ],
+    "category": "Side"
+},
+{
+    "name": "Salada Caesar",
+    "price": "12.00",
+    "available": true,
+    "description": "Salada fresca com alface romana, croutons, queijo parmesão e molho Caesar.",
+    "ingredients": [
+        "Alface romana",
+        "Croutons",
+        "Queijo parmesão",
+        "Molho Caesar"
+    ],
+    "category": "Side"
+},
+{
+    "name": "Sorvete de Chocolate",
+    "price": "8.00",
+    "available": false,
+    "description": "Sorvete cremoso de chocolate, perfeito para refrescar em dias quentes.",
+    "ingredients": [
+        "Leite",
+        "Açúcar",
+        "Cacau em pó",
+        "Essência de baunilha"
+    ],
+    "category": "Dessert"
+}
+]
